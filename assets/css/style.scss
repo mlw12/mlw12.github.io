@@ -160,7 +160,7 @@ header {
   text-align: center;
   margin: auto;
   position: fixed;
-  width: 50%;
+  width: 55%;
   background: url(../images/ng_transparenz_dk_headimg_dk_Logo.jpg);
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   min-height: 100px;
@@ -345,14 +345,4 @@ nav {
     //   padding-right:13px;
     // }
   }
-}
-
-footer {
-  width:180px;
-  position: fixed;
-  left:50%;
-  margin-left:-530px;
-  bottom:20px;
-  text-align: right;
-  line-height: 16px;
 }
