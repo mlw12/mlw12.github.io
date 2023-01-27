@@ -158,14 +158,11 @@ dt {
 
 header {
   text-align: center;
-  padding: 0;
   margin: auto;
-  position: fixed;
+  position: relative;
   width: 70%;
-  text-align: center;
   background: url(../images/ng_transparenz_dk_headimg_dk_Logo.jpg);
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
-  z-index:99;
   min-height: 76px;
   background-repeat: no-repeat;
 
