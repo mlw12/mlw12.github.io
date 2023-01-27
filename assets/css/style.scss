@@ -159,12 +159,13 @@ dt {
 header {
   text-align: center;
   margin: auto;
-  position: static;
+  position: fixed;
   width: 50%;
   background: url(../images/ng_transparenz_dk_headimg_dk_Logo.jpg);
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   min-height: 100px;
   background-repeat: no-repeat;
+  object-fit: scale-down;
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
